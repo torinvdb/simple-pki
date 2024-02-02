@@ -283,3 +283,7 @@ Type `Ctrl + C` in the terminal tab running the server, and run:
 rm -f cert-chain.pem cert-chain-2.pem go.mod zero
 rm -rf ca certs crl
 ```
+
+# Disclaimer
+
+This demo was written for [LFS183x](https://training.linuxfoundation.org/training/introduction-to-zero-trust-lfs183x/) under the provided [Apache License](LICENSE).
